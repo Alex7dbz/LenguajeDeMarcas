@@ -3,7 +3,7 @@
   "CiudadOrigen" : "Toronto",
   "fundacion" : 2016,
   "active" : true,
-  "members" : [
+  "miembros" : [
     {
       "nombre" : "Deadpool",
       "edad" : 29,
