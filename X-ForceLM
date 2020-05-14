@@ -1,7 +1,7 @@
 {
   "NombreEquipo" : "X-Force",
-  "homeTown" : "Toronto",
-  "formed" : 2016,
+  "CiudadOrigen" : "Toronto",
+  "fundacion" : 2016,
   "secretBase" : "X-Base",
   "active" : true,
   "members" : [
