@@ -1,0 +1,36 @@
+{
+  "squadName" : "X-Force",
+  "homeTown" : "Canada",
+  "formed" : 2016,
+  "secretBase" : "X-Base",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Deadpool",
+      "age" : 29,
+      "secretIdentity" : "Wadw Wilson",
+      "powers" : [
+        "Regeneración",
+        "Destreza armamentística"
+      ]
+    },
+    {
+      "name" : "Cable",
+      "age" : 39,
+      "secretIdentity" : "Nathan Summers",
+      "powers" : [
+        "Viajar en el tiempo",
+        "Resistencia extrema",
+        "Armas futuristas"
+      ]
+    },
+    {
+      "name" : "Domino",
+      "age" : 28,
+      "secretIdentity" : "Desconocida",
+      "powers" : [
+      "Suerte"
+      ]
+    }
+  ]
+}
